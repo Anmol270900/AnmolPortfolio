@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb2f86d488394de4fd467879e1179010",
+    "revision": "e140aaa9b7adfec0a329c787863a2eba",
     "url": "/AnmolPortfolio/index.html"
   },
   {
-    "revision": "157a0a94639fb01a084c",
+    "revision": "1683930f87e2f86bf03d",
     "url": "/AnmolPortfolio/static/css/2.036b41f9.chunk.css"
   },
   {
-    "revision": "6b853b3dcac85c080bd8",
+    "revision": "de878faae49712724017",
     "url": "/AnmolPortfolio/static/css/main.ca1abe45.chunk.css"
   },
   {
-    "revision": "157a0a94639fb01a084c",
-    "url": "/AnmolPortfolio/static/js/2.e37791d9.chunk.js"
+    "revision": "1683930f87e2f86bf03d",
+    "url": "/AnmolPortfolio/static/js/2.54b9c029.chunk.js"
   },
   {
     "revision": "501f379103cbfcb5ff11211dd39a28a2",
-    "url": "/AnmolPortfolio/static/js/2.e37791d9.chunk.js.LICENSE.txt"
+    "url": "/AnmolPortfolio/static/js/2.54b9c029.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6b853b3dcac85c080bd8",
-    "url": "/AnmolPortfolio/static/js/main.d30db05f.chunk.js"
+    "revision": "de878faae49712724017",
+    "url": "/AnmolPortfolio/static/js/main.9dc986c6.chunk.js"
   },
   {
     "revision": "f98d1ca42c5ee3830877",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d44327a31f06bb3aedca38293e4fc0ba",
     "url": "/AnmolPortfolio/static/media/Project5.d44327a3.png"
+  },
+  {
+    "revision": "a3a0a8fbb339d244d46820c3f0a6905a",
+    "url": "/AnmolPortfolio/static/media/Project6.a3a0a8fb.png"
   },
   {
     "revision": "3e54ed15b9cd877c5223f5ecf64579df",

@@ -1,32 +1,33 @@
 {
   "files": {
     "main.css": "/AnmolPortfolio/static/css/main.ca1abe45.chunk.css",
-    "main.js": "/AnmolPortfolio/static/js/main.d30db05f.chunk.js",
-    "main.js.map": "/AnmolPortfolio/static/js/main.d30db05f.chunk.js.map",
+    "main.js": "/AnmolPortfolio/static/js/main.9dc986c6.chunk.js",
+    "main.js.map": "/AnmolPortfolio/static/js/main.9dc986c6.chunk.js.map",
     "runtime-main.js": "/AnmolPortfolio/static/js/runtime-main.60c9e0b6.js",
     "runtime-main.js.map": "/AnmolPortfolio/static/js/runtime-main.60c9e0b6.js.map",
     "static/css/2.036b41f9.chunk.css": "/AnmolPortfolio/static/css/2.036b41f9.chunk.css",
-    "static/js/2.e37791d9.chunk.js": "/AnmolPortfolio/static/js/2.e37791d9.chunk.js",
-    "static/js/2.e37791d9.chunk.js.map": "/AnmolPortfolio/static/js/2.e37791d9.chunk.js.map",
+    "static/js/2.54b9c029.chunk.js": "/AnmolPortfolio/static/js/2.54b9c029.chunk.js",
+    "static/js/2.54b9c029.chunk.js.map": "/AnmolPortfolio/static/js/2.54b9c029.chunk.js.map",
     "index.html": "/AnmolPortfolio/index.html",
-    "precache-manifest.421841611238c8d8e58daa0ee4f69059.js": "/AnmolPortfolio/precache-manifest.421841611238c8d8e58daa0ee4f69059.js",
+    "precache-manifest.f039b95c0218f118364dbdbfc5c869a4.js": "/AnmolPortfolio/precache-manifest.f039b95c0218f118364dbdbfc5c869a4.js",
     "service-worker.js": "/AnmolPortfolio/service-worker.js",
     "static/css/2.036b41f9.chunk.css.map": "/AnmolPortfolio/static/css/2.036b41f9.chunk.css.map",
     "static/css/main.ca1abe45.chunk.css.map": "/AnmolPortfolio/static/css/main.ca1abe45.chunk.css.map",
-    "static/js/2.e37791d9.chunk.js.LICENSE.txt": "/AnmolPortfolio/static/js/2.e37791d9.chunk.js.LICENSE.txt",
+    "static/js/2.54b9c029.chunk.js.LICENSE.txt": "/AnmolPortfolio/static/js/2.54b9c029.chunk.js.LICENSE.txt",
     "static/media/Pic.jpg": "/AnmolPortfolio/static/media/Pic.61f21908.jpg",
     "static/media/Project1.png": "/AnmolPortfolio/static/media/Project1.cc30d558.png",
     "static/media/Project2.png": "/AnmolPortfolio/static/media/Project2.9ff3138f.png",
     "static/media/Project3.png": "/AnmolPortfolio/static/media/Project3.752b41c1.png",
     "static/media/Project4.png": "/AnmolPortfolio/static/media/Project4.a4b4da8e.png",
     "static/media/Project5.png": "/AnmolPortfolio/static/media/Project5.d44327a3.png",
+    "static/media/Project6.png": "/AnmolPortfolio/static/media/Project6.a3a0a8fb.png",
     "static/media/github.png": "/AnmolPortfolio/static/media/github.3e54ed15.png"
   },
   "entrypoints": [
     "static/js/runtime-main.60c9e0b6.js",
     "static/css/2.036b41f9.chunk.css",
-    "static/js/2.e37791d9.chunk.js",
+    "static/js/2.54b9c029.chunk.js",
     "static/css/main.ca1abe45.chunk.css",
-    "static/js/main.d30db05f.chunk.js"
+    "static/js/main.9dc986c6.chunk.js"
   ]
 }
