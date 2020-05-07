@@ -2,7 +2,7 @@ export const AboutInfo = [
   {
     id: 1,
     name: 'About me',
-    text: 'Eager to learn | Quick learner | Enjoy solving real-world problems with the help of technology',
+    text: 'Eager to learn | Quick learner | Enjoy solving real-world problems',
     imagesource: './aboutme.jpg'
   },
   {
