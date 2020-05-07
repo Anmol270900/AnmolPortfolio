@@ -50,7 +50,7 @@ class App extends Component {
       </div> 
 
         <Logo />
-        <h1>Hi! I am Anmol</h1>
+        <h1>Hi! I am Anmol.</h1>
         <div className='center'>
           <About onRouteChange={this.onRouteChange} route={this.state.route}/>
           <Projects onRouteChange={this.onRouteChange} route={this.state.route}/>

@@ -7,24 +7,30 @@ export const ProjectInfo = [
   },
   {
     id: 2,
+    name: 'HackMSIT 2.0',
+    link: 'http://hackmsit.iosd.tech/',
+    imagesource: './Project6.png'
+  },
+  {
+    id: 3,
     name: 'Friends',
     link: 'https://anmol270900.github.io/Friends/',
     imagesource: './Project2.png'
   },
   {
-    id: 3,
+    id: 4,
     name: 'Rock Paper Scissors',
     link: 'https://anmol270900.github.io/Rock-Paper-Scissors/',
     imagesource: './Project3.png'
   },
   {
-    id: 4,
+    id: 5,
     name: 'Startup Landing Page',
     link: 'https://anmol270900.github.io/Startup-Landing-Page/',
     imagesource: './Project4.png'
   },
   {
-    id: 5,
+    id: 6,
     name: 'Robot Friend',
     link: 'https://anmol270900.github.io/Robot/',
     imagesource: './Project5.png'

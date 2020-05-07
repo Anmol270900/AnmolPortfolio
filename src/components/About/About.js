@@ -7,7 +7,7 @@ const About = ({onRouteChange, route}) => {
 	   		className="ma3 pa4 br3 grow f4 link ph3 pv2 dib white wall shadow-1 ba b--white"
 	   		onClick={route!=='about' ? ()=>onRouteChange('about') : ()=>onRouteChange('')}
 	   		>
-	   		About
+	   		Know more 
 	   	</div>
     </div>
   );
