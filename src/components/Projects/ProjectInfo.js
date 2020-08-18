@@ -1,38 +1,26 @@
 export const ProjectInfo = [
   {
     id: 1,
-    name: 'Face Detector',
-    link: 'https://smartbrain-27.herokuapp.com/',
+    name: 'Crown Clothing',
+    link: 'https://crownclothing27.herokuapp.com/',
     imagesource: './Project1.png'
   },
   {
     id: 2,
-    name: 'HackMSIT 2.0',
-    link: 'http://hackmsit.iosd.tech/',
-    imagesource: './Project6.png'
-  },
-  {
-    id: 3,
-    name: 'Friends',
-    link: 'https://anmol270900.github.io/Friends/',
+    name: 'Smart Brain',
+    link: 'https://smartbrain-27.herokuapp.com/',
     imagesource: './Project2.png'
   },
   {
+    id: 3,
+    name: 'AR Balloon Shooter',
+    link: 'https://github.com/Anmol270900/AR-Balloon-Shooter',
+    imagesource: './Project3.jpeg'
+  },
+  {
     id: 4,
-    name: 'Rock Paper Scissors',
-    link: 'https://anmol270900.github.io/Rock-Paper-Scissors/',
-    imagesource: './Project3.png'
-  },
-  {
-    id: 5,
-    name: 'Startup Landing Page',
-    link: 'https://anmol270900.github.io/Startup-Landing-Page/',
+    name: 'HackMSIT 2.0',
+    link: 'http://hackmsit.iosd.tech/',
     imagesource: './Project4.png'
-  },
-  {
-    id: 6,
-    name: 'Robot Friend',
-    link: 'https://anmol270900.github.io/Robot/',
-    imagesource: './Project5.png'
   }
 ];

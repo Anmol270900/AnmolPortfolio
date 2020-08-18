@@ -8,6 +8,7 @@ const AboutCardList = ({robots}) => {
 		id={robots[i].id} 
 		name={robots[i].name} 
 		text={robots[i].text}
+		textt={robots[i].textt}
 		imagesource={robots[i].imagesource}
 		/>
 	})
