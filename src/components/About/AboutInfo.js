@@ -10,7 +10,7 @@ export const AboutInfo = [
     id: 2,
     name: 'Skills',
     text: `C++ | Datastuctures | Algorithms`,
-    textt: 'JavaScript | MERN stack | Firebase',
+    textt: 'JavaScript | React | Vue | MERN',
     imagesource: './skills.jpg'
   },
   {
