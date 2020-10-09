@@ -4,27 +4,27 @@ export const AboutInfo = [
     name: 'About me',
     text: 'Eager to learn',
     textt: 'Quick learner',
-    imagesource: './aboutme.jpg'
+    imagesource: './img/aboutme.jpg'
   },
   {
     id: 2,
     name: 'Skills',
     text: `C++ | Datastuctures | Algorithms`,
     textt: 'JavaScript | React | Vue | MERN',
-    imagesource: './skills.jpg'
+    imagesource: './img/skills.jpg'
   },
   {
     id: 3,
     name: 'Education',
     text: 'CSE student, 3rd year',
     textt: 'MSIT, Delhi',
-    imagesource: './education.jpg'
+    imagesource: './img/education.jpg'
   },
   {
     id: 4,
     name: 'Interests and Hobbies',
     text: 'Competitive Coding',
     textt: 'Exploring different technologies',
-    imagesource: './hobbies.jpg'
+    imagesource: './img/hobbies.jpg'
   }
 ];
