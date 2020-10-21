@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e33f948e108dfb5959cc609a58b0e68",
+    "revision": "d937fa16990e0ed345fc81dec1a56e9c",
     "url": "/AnmolPortfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AnmolPortfolio/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "65b05e60820a1bf1de98",
+    "revision": "270ab714d0a7bb3566af",
     "url": "/AnmolPortfolio/static/css/main.d676ae69.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AnmolPortfolio/static/js/2.76c69b7a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65b05e60820a1bf1de98",
-    "url": "/AnmolPortfolio/static/js/main.cd4e587d.chunk.js"
+    "revision": "270ab714d0a7bb3566af",
+    "url": "/AnmolPortfolio/static/js/main.bf0d56c1.chunk.js"
   },
   {
     "revision": "18b17248c605f8794f8f",
