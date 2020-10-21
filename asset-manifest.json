@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AnmolPortfolio/static/css/main.d676ae69.chunk.css",
-    "main.js": "/AnmolPortfolio/static/js/main.bf0d56c1.chunk.js",
-    "main.js.map": "/AnmolPortfolio/static/js/main.bf0d56c1.chunk.js.map",
+    "main.js": "/AnmolPortfolio/static/js/main.c6796cf2.chunk.js",
+    "main.js.map": "/AnmolPortfolio/static/js/main.c6796cf2.chunk.js.map",
     "runtime-main.js": "/AnmolPortfolio/static/js/runtime-main.39aaa7a9.js",
     "runtime-main.js.map": "/AnmolPortfolio/static/js/runtime-main.39aaa7a9.js.map",
     "static/css/2.3c03f26f.chunk.css": "/AnmolPortfolio/static/css/2.3c03f26f.chunk.css",
     "static/js/2.76c69b7a.chunk.js": "/AnmolPortfolio/static/js/2.76c69b7a.chunk.js",
     "static/js/2.76c69b7a.chunk.js.map": "/AnmolPortfolio/static/js/2.76c69b7a.chunk.js.map",
     "index.html": "/AnmolPortfolio/index.html",
-    "precache-manifest.da4a880cdbfb1bfdee4cfef9509b1fed.js": "/AnmolPortfolio/precache-manifest.da4a880cdbfb1bfdee4cfef9509b1fed.js",
+    "precache-manifest.15071f976d0184874fca2aa1d9b11970.js": "/AnmolPortfolio/precache-manifest.15071f976d0184874fca2aa1d9b11970.js",
     "service-worker.js": "/AnmolPortfolio/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/AnmolPortfolio/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.d676ae69.chunk.css.map": "/AnmolPortfolio/static/css/main.d676ae69.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.76c69b7a.chunk.js",
     "static/css/main.d676ae69.chunk.css",
-    "static/js/main.bf0d56c1.chunk.js"
+    "static/js/main.c6796cf2.chunk.js"
   ]
 }
