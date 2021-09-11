@@ -9,14 +9,14 @@ export const AboutInfo = [
   {
     id: 2,
     name: 'Skills',
-    text: `C++ | Datastuctures | Algorithms`,
-    textt: 'JavaScript | React | Vue | MERN',
+    text: 'C++ | Datastuctures | Algorithms',
+    textt: 'React | Node | MongoDB | PostgreSQL',
     imagesource: './img/skills.jpg'
   },
   {
     id: 3,
     name: 'Education',
-    text: 'CSE student, 3rd year',
+    text: 'B.Tech CSE, 4th year',
     textt: 'MSIT, Delhi',
     imagesource: './img/education.jpg'
   },
